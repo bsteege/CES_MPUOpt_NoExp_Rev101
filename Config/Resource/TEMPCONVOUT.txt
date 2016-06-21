@@ -1,0 +1,4 @@
+__INST2DEGFTODEGC(InputTemp);
+__MO_1 := SEL(TempUnit1,__INST2DEGFTODEGC.DEGC,InputTemp);
+OutputTemp := __MO_1;
+__GL __LG0000;

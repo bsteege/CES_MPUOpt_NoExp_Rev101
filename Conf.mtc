@@ -1,0 +1,19 @@
+[MAIN]
+NET=3
+CONF=1
+RES=1
+
+
+[NET]
+N1=ETCP_1, ETCP
+N2=ETCP_2, ETCP
+N3=ETCP_3, ETCP
+
+
+[CONF]
+C1=Config, 1
+I1=1, 192.168.0.250
+
+
+[RES]
+R1=1, Resource, 1

@@ -1,0 +1,67 @@
+head	1.2;
+access;
+symbols
+	O1-2:1.2
+	O1-1:1.1;
+locks; strict;
+comment	@# @;
+expand	@b@;
+
+
+1.2
+date	2008.06.16.08.13.18;	author rditommaso;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.06.13.21.04.37;	author rditommaso;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@Comment: 0; WBVersion: 5.10.201; PW:  ; type: O:1-2| ;
+@
+text
+@PROGRAM UntitledST
+IF EnableLog = TRUE THEN
+
+	mylog (TRUE,'DatiImpianto',10000,'pippo',t#0s,FALSE);
+	mylog (FALSE,'DatiImpianto',10000,'pippo',t#0s,FALSE);
+
+
+END_IF;
+
+a:=5/b;
+arr[vararr]:=TRUE;
+
+END_PROGRAM@
+
+
+1.1
+log
+@Comment: 0; WBVersion: 5.10.201; PW:  ; type: O:1-1| ;
+@
+text
+@a2 4
+	EnableLog := FALSE;
+	mylog (TRUE, 'DatiImpianto',2000,'pippo pluto paperiono pippo pluto paperiono pippo pluto paperiono pippo pluto paperiono pippo pluto paperiono',t#0s,FALSE);
+	mylog (FALSE, 'DatiImpianto',2000,'pippo',t#0s,FALSE);
+END_IF;
+d4 2
+a6 2
+arr[vararr]:=FALSE;
+a:= c/b;
+d8 1
+d10 2
+a11 3
+
+	
+
+@
+

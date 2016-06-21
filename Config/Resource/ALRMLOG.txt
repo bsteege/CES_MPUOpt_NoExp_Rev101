@@ -1,0 +1,3 @@
+__INST1ALRRECORD(AlarmActive,CloggedFiltAlarm,CompAlarm,FanFailAlm,HeatAlarm,LowSuctPressAlr,HighSuctPressAlr,'ClogFilt,Comp,FanFail,Heat,LowPres,HighPres',ClrAlarmLog);
+__INST42REALRECORD(TRUE,SpaceT,DewPt,SupplyT,RetAirT,OutAirT,DigComp1Percent,'SpaceT,DewPt,SupplyT,RetAirT,OutAirT,Comp1Per',MyMonth,MyDay,MyYear);
+__GL __LG0000;

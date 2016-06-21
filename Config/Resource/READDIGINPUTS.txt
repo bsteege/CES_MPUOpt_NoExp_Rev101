@@ -1,0 +1,18 @@
+__INST69BOOLSELECTINV(OvrEmerSwithc,OvrEmerSwithc,DI01);
+EmerShutdwn := __INST69BOOLSELECTINV.OUT;
+LoadShed := DI04;
+__INST70BOOLSELECTINV(OvrDigAirFlow,OvrDigAirFlow,DI02);
+DigAirflowSwitch := __INST70BOOLSELECTINV.OUT;
+ExhFanLock[1] := DI05;
+ExhFanLock[2] := DI06;
+ExhFanLock[3] := DI07;
+ExhFanLock[4] := DI08;
+__INST71BOOLSELECTINV(OvrCloggedFilt,OvrCloggedFilt,DI03);
+CloggedFilt := __INST71BOOLSELECTINV.OUT;
+ExhFanLock[5] := DI09;
+ExhFanLock[6] := DI10;
+ExhFanLock[7] := DI11;
+ExhFanLock[8] := DI12;
+ExhFanLock[9] := DI13;
+ExhFanLock[10] := DI14;
+__GL __LG0000;

@@ -1,0 +1,42 @@
+head	1.2;
+access;
+symbols
+	O1-2:1.2
+	O1-1:1.1;
+locks; strict;
+comment	@# @;
+expand	@b@;
+
+
+1.2
+date	2008.06.16.08.13.16;	author rditommaso;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.06.13.21.04.34;	author rditommaso;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@Comment: 0; WBVersion: 5.10.201; PW: ; type: O| ;
+@
+text
+@<?xml version="1.0"?>
+<isa:pou xmlns:isa="urn:pou" fileVersion="05.10.01" name="UntitledST" comment="" refLanguage="2" refLocalization="4" singleTextLine="" password="" encrypted="0" genDebugInfo="0" useResPassword="0" generateSymbMon="1" is1499="0" pouType="program"><program/><types/></isa:pou>
+@
+
+
+1.1
+log
+@Comment: 0; WBVersion: 5.10.201; PW: ; type: O| ;
+@
+text
+@@
+

@@ -1,0 +1,187 @@
+
+
+====================================== Date:2007/8/28  Time:17:28:47 ======================================
+
+[08/28/07 17:28:47]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\dixell\VSC" init
+[08/28/07 17:28:48]: GetExitCodeProcess Return Code is 0
+
+
+[08/28/07 17:28:48]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\dixell\VSC" checkout repository
+[08/28/07 17:28:48]: CVS checkout: Updating repository
+[08/28/07 17:28:48]: GetExitCodeProcess Return Code is 0
+
+
+[08/28/07 17:29:06]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\dixell\VSC" init
+[08/28/07 17:29:07]: GetExitCodeProcess Return Code is 0
+
+
+[08/28/07 17:29:07]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\dixell\VSC" checkout repository
+[08/28/07 17:29:07]: CVS checkout: Updating repository
+[08/28/07 17:29:07]: GetExitCodeProcess Return Code is 0
+
+
+[06/09/08 22:10:58]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/09/08 22:10:58]: GetExitCodeProcess Return Code is 0
+
+
+[06/09/08 22:10:58]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/09/08 22:10:59]: CVS checkout: Updating repository
+[06/09/08 22:10:59]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:32]: Exporting data to XML.
+[06/13/08 23:04:32]: Reading POU data...
+[06/13/08 23:04:32]: Reading Program data...
+[06/13/08 23:04:32]: Reading Definition Types...
+[06/13/08 23:04:33]: Writing data to file Config.Resource.UntitledST.xml.
+[06/13/08 23:04:33]: Performing Check in.
+[06/13/08 23:04:33]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/13/08 23:04:33]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:33]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/13/08 23:04:33]: CVS checkout: Updating repository
+[06/13/08 23:04:33]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:33]: CopyFile(C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\Config.Resource.UntitledST.xml , C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\local\repository\Config.Resource.UntitledST.xml) succeeded.
+[06/13/08 23:04:33]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" add -kb  repository/Config.Resource.UntitledST.xml
+[06/13/08 23:04:33]: CVS add: scheduling file `repository/Config.Resource.UntitledST.xml' for addition
+CVS add: use 'CVS commit' to add this file permanently
+[06/13/08 23:04:33]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:33]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" commit -m "Comment: 0; WBVersion: 5.10.201; PW: ; type: O| ;" -f  repository/Config.Resource.UntitledST.xml
+[06/13/08 23:04:34]: RCS file: C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.xml,v
+done
+Checking in repository/Config.Resource.UntitledST.xml;
+C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.xml,v  <--  Config.Resource.UntitledST.xml
+initial revision: 1.1
+done
+[06/13/08 23:04:35]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:35]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/13/08 23:04:35]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:35]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/13/08 23:04:36]: U repository/Config.Resource.UntitledST.xml
+[06/13/08 23:04:37]: CVS checkout: Updating repository
+[06/13/08 23:04:37]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:37]: CopyFile(C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\Config.Resource.UntitledST.stf , C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\local\repository\Config.Resource.UntitledST.stf) succeeded.
+[06/13/08 23:04:37]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" add -kb  repository/Config.Resource.UntitledST.stf
+[06/13/08 23:04:37]: CVS add: scheduling file `repository/Config.Resource.UntitledST.stf' for addition
+CVS add: use 'CVS commit' to add this file permanently
+[06/13/08 23:04:37]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:37]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" commit -m "Comment: 0; WBVersion: 5.10.201; PW:  ; type: O:1-1| ;" -f  repository/Config.Resource.UntitledST.stf 
+[06/13/08 23:04:37]: RCS file: C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.stf,v
+done
+Checking in repository/Config.Resource.UntitledST.stf;
+C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.stf,v  <--  Config.Resource.UntitledST.stf
+initial revision: 1.1
+done
+[06/13/08 23:04:38]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:38]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/13/08 23:04:38]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:38]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/13/08 23:04:38]: U repository/Config.Resource.UntitledST.stf
+U repository/Config.Resource.UntitledST.xml
+[06/13/08 23:04:39]: CVS checkout: Updating repository
+[06/13/08 23:04:39]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:39]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" tag -F O1-1 repository/Config.Resource.UntitledST.stf  repository/Config.Resource.UntitledST.xml 
+[06/13/08 23:04:39]: T repository/Config.Resource.UntitledST.stf
+T repository/Config.Resource.UntitledST.xml
+[06/13/08 23:04:39]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:39]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" release 
+[06/13/08 23:04:39]: GetExitCodeProcess Return Code is 0
+
+
+[06/13/08 23:04:40]: Checked-in Config.Resource.UntitledST into source control.
+[06/16/08 10:13:14]: Exporting data to XML.
+[06/16/08 10:13:15]: Reading POU data...
+[06/16/08 10:13:15]: Reading Program data...
+[06/16/08 10:13:15]: Reading Definition Types...
+[06/16/08 10:13:15]: Writing data to file Config.Resource.UntitledST.xml.
+[06/16/08 10:13:15]: Performing Check in.
+[06/16/08 10:13:15]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/16/08 10:13:15]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:15]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/16/08 10:13:15]: CVS checkout: Updating repository
+[06/16/08 10:13:15]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:15]: CopyFile(C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\Config.Resource.UntitledST.xml , C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\local\repository\Config.Resource.UntitledST.xml) succeeded.
+[06/16/08 10:13:15]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" commit -m "Comment: 0; WBVersion: 5.10.201; PW: ; type: O| ;" -f  repository/Config.Resource.UntitledST.xml
+[06/16/08 10:13:16]: Checking in repository/Config.Resource.UntitledST.xml;
+C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.xml,v  <--  Config.Resource.UntitledST.xml
+new revision: 1.2; previous revision: 1.1
+done
+[06/16/08 10:13:17]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:17]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/16/08 10:13:17]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:17]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/16/08 10:13:17]: U repository/Config.Resource.UntitledST.stf
+U repository/Config.Resource.UntitledST.xml
+[06/16/08 10:13:18]: CVS checkout: Updating repository
+[06/16/08 10:13:18]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:18]: CopyFile(C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\Config.Resource.UntitledST.stf , C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC\local\repository\Config.Resource.UntitledST.stf) succeeded.
+[06/16/08 10:13:18]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" commit -m "Comment: 0; WBVersion: 5.10.201; PW:  ; type: O:1-2| ;" -f  repository/Config.Resource.UntitledST.stf 
+[06/16/08 10:13:18]: Checking in repository/Config.Resource.UntitledST.stf;
+C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC/repository/Config.Resource.UntitledST.stf,v  <--  Config.Resource.UntitledST.stf
+new revision: 1.2; previous revision: 1.1
+done
+[06/16/08 10:13:19]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:19]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" init
+[06/16/08 10:13:19]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:19]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" checkout repository
+[06/16/08 10:13:19]: U repository/Config.Resource.UntitledST.stf
+U repository/Config.Resource.UntitledST.xml
+[06/16/08 10:13:20]: CVS checkout: Updating repository
+[06/16/08 10:13:20]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:20]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" tag -F O1-2 repository/Config.Resource.UntitledST.stf  repository/Config.Resource.UntitledST.xml 
+[06/16/08 10:13:20]: T repository/Config.Resource.UntitledST.stf
+T repository/Config.Resource.UntitledST.xml
+[06/16/08 10:13:20]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:20]: CVS -d :local:"C:\Programmi\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.1\Prj\projet1\VSC" release 
+[06/16/08 10:13:20]: GetExitCodeProcess Return Code is 0
+
+
+[06/16/08 10:13:21]: Checked-in Config.Resource.UntitledST into source control.
+[03/10/14 14:15:20]: CVS -d :local:"C:\Users\Public\Documents\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.2\Prj\CES_MPUOpt_NoExp\VSC" init
+[03/10/14 14:15:20]: GetExitCodeProcess Return Code is 0
+
+
+[03/10/14 14:15:20]: CVS -d :local:"C:\Users\Public\Documents\ICS Triplex ISaGRAF\Projects\ISaGRAF 5.2\Prj\CES_MPUOpt_NoExp\VSC" checkout repository
+[03/10/14 14:15:20]: CVS checkout: Updating repository
+[03/10/14 14:15:20]: GetExitCodeProcess Return Code is 0
+
+
